@@ -24,14 +24,6 @@ Permite realizar operações matemáticas básicas de forma rápida e responsiva
 
 ---
 
-## 🖼️ Demonstração
-
-👉 [Acesse a Calculadora Online](https://SEU_USUARIO.github.io/calculadora/)
-
-_(Substitua `SEU_USUARIO` pelo seu nome do GitHub)_
-
----
-
 ## 📂 Como Usar Localmente
 
 1. Clone este repositório:
@@ -43,4 +35,4 @@ _(Substitua `SEU_USUARIO` pelo seu nome do GitHub)_
 Antonio Correa dos Santos Junior
 📧 Contato: junior.calebe.santos@gmail.com.com
 
-🌐 GitHub: https://github.com/SEU_USUARIO
+🌐 GitHub: https://github.com/antoniocorreadossantosjunior/calculadora
